@@ -52,11 +52,12 @@ function draw() {
   ground.display();
   
  
-  //image(boyImg,200,800,250,400)
+  image(boyImg,320,1000,250,400)
   
   chain.display();
+  
+  image(treeImg,1000,650,950,1000)
   stone.display();
-  //image(treeImg,1000,650,950,1000)
   mango1.display();
   mango2.display();
   mango3.display();
